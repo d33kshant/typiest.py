@@ -5,8 +5,8 @@ Simple console based program for typing speed test made with Python.
 ![Screenshot](screenshot.png)
 
 ## Usage
-To start a test use `python main.py start` and to stop the test leave the field empty and press return
-for more details use `python main.py help`
+To start a test use `python main.py start` and to stop the test leave the field empty and press return.
+For more details use `python main.py help`
 
 ## Use custom phrases
 By default program will use `phrases.txt` file which contains 100 lorem ipsum phrases, to add your custom text just change the contents of `phrases.txt` file to your text.
